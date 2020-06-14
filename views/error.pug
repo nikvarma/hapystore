@@ -6,7 +6,7 @@ block content
   div(class="container-full")
     div(class="bg-white shadow-border p-1")
       h1.title= message
-      if error
+      if error && process.env.NODE_ENV === 'development'
         h2.subtitle= error.status
         div(class="overflow-container")
           pre.font-14 #{error.stack}
