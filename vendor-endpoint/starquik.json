@@ -1,0 +1,1713 @@
+[
+    {
+        "vendor": "starquik",
+        "links": [
+            {
+                "host": "https://api.starquik.com",
+                "endpoint": "/v1/category?cat_id={id}&limit={sizenumber}&start={pagenumber}"
+            }
+        ],
+        "storeparams": [
+            {
+                "label": "Beverages",
+                "list": {
+                    "id": 344,
+                    "lable": "Beverages",
+                    "grocery": [
+                        {
+                            "id": 349,
+                            "lable": "Juices & Concentrates",
+                            "grocery": [
+                                {
+                                    "id": 350,
+                                    "lable": "100% Fruit Juices",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 351,
+                                    "lable": "Fresh Pressed Juices",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 352,
+                                    "lable": "Juices & Fruit Drinks",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 353,
+                                    "lable": "Powder Concentrates & Syrups",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 354,
+                            "lable": "Soft Drinks",
+                            "grocery": [
+                                {
+                                    "id": 355,
+                                    "lable": "Cola",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 356,
+                                    "lable": "Energy & Sports",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 357,
+                                    "lable": "Lemon & Cloudy",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 358,
+                                    "lable": "Orange & Clear",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 345,
+                            "lable": "Health Drinks",
+                            "grocery": [
+                                {
+                                    "id": 346,
+                                    "lable": "Chocolate Health Drinks",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 347,
+                                    "lable": "Drink Mixes",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 348,
+                                    "lable": "White Health Drinks",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 365,
+                            "lable": "Non Alcoh Beer, Water & Soda",
+                            "grocery": [
+                                {
+                                    "id": 366,
+                                    "lable": "Soda & Tonic Water",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 367,
+                                    "lable": "Water",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 659,
+                                    "lable": " Non Alcoholic Beer",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 359,
+                            "lable": "Tea, Coffee & Whitener",
+                            "grocery": [
+                                {
+                                    "id": 360,
+                                    "lable": "Coffee",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 361,
+                                    "lable": "Green Tea",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 362,
+                                    "lable": "Milk",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 363,
+                                    "lable": "Tea",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 364,
+                                    "lable": "Tea Bags",
+                                    "grocery": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Branded Food",
+                "list": {
+                    "id": 368,
+                    "lable": "Branded Food",
+                    "grocery": [
+                        {
+                            "id": 369,
+                            "lable": "Baby Food",
+                            "grocery": [
+                                {
+                                    "id": 370,
+                                    "lable": "Baby Cereals",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 371,
+                                    "lable": "Baby Milk",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 372,
+                            "lable": "Bakery & Biscuits",
+                            "grocery": [
+                                {
+                                    "id": 373,
+                                    "lable": "Cakes",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 374,
+                                    "lable": "Cookies & Rusk",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 375,
+                                    "lable": "Cream Biscuits",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 376,
+                                    "lable": "Health And Wafer Biscuits",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 377,
+                                    "lable": "Marie & Plain Biscuits",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 378,
+                                    "lable": "Salted Biscuits",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 379,
+                            "lable": "Breakfast Cereals",
+                            "grocery": [
+                                {
+                                    "id": 380,
+                                    "lable": "Chocos & Loops",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 381,
+                                    "lable": "Cornflakes",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 382,
+                                    "lable": "Mueseli",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 383,
+                                    "lable": "Oats",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 384,
+                            "lable": "Chocolates & Confectionery",
+                            "grocery": [
+                                {
+                                    "id": 385,
+                                    "lable": "Cadbury",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 386,
+                                    "lable": "Chocolate & Candies",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 387,
+                                    "lable": "Gum & Mints",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 388,
+                                    "lable": "Imported",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 389,
+                                    "lable": "Mukhwas",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 390,
+                            "lable": "Desserts & Instant Mixes",
+                            "grocery": [
+                                {
+                                    "id": 391,
+                                    "lable": "Baking Ingredients",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 392,
+                                    "lable": "Condensed Milk",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 393,
+                                    "lable": "Desserts Readymixes",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 394,
+                                    "lable": "Instant Mix",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 395,
+                                    "lable": "Toppings & Syrups",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 400,
+                            "lable": "Instant Mix & Instant Dishes",
+                            "grocery": [
+                                {
+                                    "id": 401,
+                                    "lable": "Ready Mixes",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 402,
+                                    "lable": "Ready To Eat",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 407,
+                            "lable": "Pickle, Papad & Fryums",
+                            "grocery": [
+                                {
+                                    "id": 408,
+                                    "lable": "Fryums & Papads",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 409,
+                                    "lable": "Veg & Nonveg Pickles",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 410,
+                            "lable": "Sauces, Jams & Spreads",
+                            "grocery": [
+                                {
+                                    "id": 411,
+                                    "lable": "Culinary Sauces & Dips",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 412,
+                                    "lable": "Honey & Chutney",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 413,
+                                    "lable": "Jams, Conserves & Preserves",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 414,
+                                    "lable": "Ketchups & Sauces",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 415,
+                                    "lable": "Spread, Mayo & Dressings",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 416,
+                                    "lable": "Vinegar",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 417,
+                            "lable": "Wafers & Namkeens",
+                            "grocery": [
+                                {
+                                    "id": 418,
+                                    "lable": "Health Snacks",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 419,
+                                    "lable": "Namkeens & Chikkis",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 420,
+                                    "lable": "Nuts & Other Snacks",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 421,
+                                    "lable": "Potato Wafers & Chips",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 396,
+                            "lable": "Gifting",
+                            "grocery": [
+                                {
+                                    "id": 397,
+                                    "lable": "Chocolates",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 398,
+                                    "lable": "Cookies",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 399,
+                                    "lable": "Namkeens",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 403,
+                            "lable": "Noodles & Pasta",
+                            "grocery": [
+                                {
+                                    "id": 404,
+                                    "lable": "Instant Noodles",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 405,
+                                    "lable": "Soups & Pasta",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 406,
+                                    "lable": "Vermicelli",
+                                    "grocery": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Dairy, Bakery & Eggs",
+                "list": {
+                    "id": 422,
+                    "lable": "Dairy, Bakery & Eggs",
+                    "grocery": [
+                        {
+                            "id": 423,
+                            "lable": "Bakery & Batter",
+                            "grocery": [
+                                {
+                                    "id": 424,
+                                    "lable": "Batter",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 425,
+                                    "lable": "Breads",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 426,
+                                    "lable": "Fresh Cake",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 427,
+                            "lable": "Butter & Cheese",
+                            "grocery": [
+                                {
+                                    "id": 428,
+                                    "lable": "Cheese Cubes",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 429,
+                                    "lable": "Cheese Slices",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 430,
+                                    "lable": "Cheese Spreads",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 431,
+                                    "lable": "Exotic Cheese",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 432,
+                                    "lable": "Flavoured Cheese",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 433,
+                                    "lable": "Margarine",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 434,
+                                    "lable": "Pizza Cheese",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 435,
+                                    "lable": "Table Butter",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 436,
+                                    "lable": "Unsalted Butter",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 437,
+                            "lable": "Curd, Paneer & Chaas",
+                            "grocery": [
+                                {
+                                    "id": 438,
+                                    "lable": "Chaas & Lassi",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 439,
+                                    "lable": "Curd & Cream",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 440,
+                                    "lable": "Desserts & Sweets",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 441,
+                                    "lable": "Paneer & Tofu",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 442,
+                                    "lable": "Yogurt",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 443,
+                            "lable": "Eggs",
+                            "grocery": [
+                                {
+                                    "id": 444,
+                                    "lable": "Country Eggs",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 445,
+                                    "lable": "Other Eggs",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 446,
+                            "lable": "Milk",
+                            "grocery": [
+                                {
+                                    "id": 447,
+                                    "lable": "Fino & Tetrapack Milk",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 448,
+                                    "lable": "Flavoured Milk",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 449,
+                                    "lable": "Fresh Milk",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 450,
+                                    "lable": "Soya Milk",
+                                    "grocery": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Foodgrain, Oil & Masala",
+                "list": {
+                    "id": 451,
+                    "lable": "Foodgrain, Oil & Masala",
+                    "grocery": [
+                        {
+                            "id": 461,
+                            "lable": "Dry Fruits",
+                            "grocery": [
+                                {
+                                    "id": 462,
+                                    "lable": "Almonds",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 463,
+                                    "lable": "Cashews",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 464,
+                                    "lable": "Dates",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 465,
+                                    "lable": "Other Dryfruits",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 466,
+                                    "lable": "Pistachio",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 467,
+                                    "lable": "Raisins",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 468,
+                                    "lable": "Walnuts",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 656,
+                                    "lable": "Dryfruits Gift Packs",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 482,
+                            "lable": "Masalas",
+                            "grocery": [
+                                {
+                                    "id": 483,
+                                    "lable": "Cooking Pastes",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 484,
+                                    "lable": "Food Colour & Flavours",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 485,
+                                    "lable": "Herbs & Seasonings",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 486,
+                                    "lable": "Powdered Spices",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 487,
+                                    "lable": "Readymix Spices",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 488,
+                                    "lable": "Whole Spices",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 495,
+                            "lable": "Salt, Sugar & Jaggery",
+                            "grocery": [
+                                {
+                                    "id": 496,
+                                    "lable": "Crystal Sugar",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 497,
+                                    "lable": "Gud (Jaggery)",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 498,
+                                    "lable": "Iodized Salt & Other Salt",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 499,
+                                    "lable": "Value Added Sugar",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 500,
+                            "lable": "Wheat & Soya Products",
+                            "grocery": [
+                                {
+                                    "id": 501,
+                                    "lable": "Soya Chunks",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 502,
+                                    "lable": "Soya Granules",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 503,
+                                    "lable": "Wheat",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 452,
+                            "lable": "Atta & Other Flours",
+                            "grocery": [
+                                {
+                                    "id": 453,
+                                    "lable": "Atta",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 454,
+                                    "lable": "Other Flours",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 455,
+                            "lable": "Dal & Pulses",
+                            "grocery": [
+                                {
+                                    "id": 456,
+                                    "lable": "Arhar (Tur Dal)",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 457,
+                                    "lable": "Chana Dal",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 458,
+                                    "lable": "Moong Dal",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 459,
+                                    "lable": "Other Dals",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 460,
+                                    "lable": "Urad Dal",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 469,
+                            "lable": "Edible Oils & Ghee",
+                            "grocery": [
+                                {
+                                    "id": 470,
+                                    "lable": "Canola Oil",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 471,
+                                    "lable": "Cow Ghee",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 472,
+                                    "lable": "Desi Ghee",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 473,
+                                    "lable": "Groundnut Oil",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 474,
+                                    "lable": "Health Oil",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 475,
+                                    "lable": "Mustard Oil",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 476,
+                                    "lable": "Olive & Canola Oil",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 477,
+                                    "lable": "Rice Bran Oil",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 478,
+                                    "lable": "Sesame Oil",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 479,
+                                    "lable": "Soya Oil",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 480,
+                                    "lable": "Sunflower Oil",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 481,
+                                    "lable": "Vanaspati & Palm Oil",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 489,
+                            "lable": "Rice",
+                            "grocery": [
+                                {
+                                    "id": 490,
+                                    "lable": "Basmati Rice",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 491,
+                                    "lable": "Boiled Rice",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 492,
+                                    "lable": "Kolam",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 493,
+                                    "lable": "Other Rice Products",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 494,
+                                    "lable": "Raw Rice",
+                                    "grocery": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Fruits & Vegetables",
+                "list": {
+                    "id": 513,
+                    "lable": "Fruits & Vegetables",
+                    "grocery": [
+                        {
+                            "id": 514,
+                            "lable": "Cuts & Sprouts",
+                            "grocery": [
+                                {
+                                    "id": 515,
+                                    "lable": "Cuts",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 516,
+                                    "lable": "Sprouts",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 528,
+                            "lable": "Fresh Vegetables",
+                            "grocery": [
+                                {
+                                    "id": 529,
+                                    "lable": "Beans, Brinjal & Bhindi",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 530,
+                                    "lable": "Cabbage, Cauliflower & Capsicum",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 531,
+                                    "lable": "Chilli, Ginger & Lemon",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 532,
+                                    "lable": "Gourds, Cucumber & Carrot",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 533,
+                                    "lable": "Leafy & Rooty Vegetables",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 534,
+                                    "lable": "Others",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 535,
+                                    "lable": "Peas, Corn & Mushrooms",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 536,
+                                    "lable": "Pumpkin",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 537,
+                                    "lable": "Raw Mango, Papaya & Banana",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 538,
+                                    "lable": "Tomato, Potato & Onion",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 517,
+                            "lable": "Fresh Fruits",
+                            "grocery": [
+                                {
+                                    "id": 518,
+                                    "lable": "Apples",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 519,
+                                    "lable": "Bananas, Guava & Sapota",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 520,
+                                    "lable": "Custard Apple",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 521,
+                                    "lable": "Exotic Fruits",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 522,
+                                    "lable": "Grapes, Berries & Cherries",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 523,
+                                    "lable": "Mangoes",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 524,
+                                    "lable": "Melons",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 525,
+                                    "lable": "Oranges And Kinnow",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 526,
+                                    "lable": "Papaya, Pineapple & Pomegranate",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 527,
+                                    "lable": "Plums Peaches & Pears",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 657,
+                            "lable": "Flower",
+                            "grocery": [
+                                {
+                                    "id": 658,
+                                    "lable": "Puja Flowers",
+                                    "grocery": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Frozen Veg",
+                "list": {
+                    "id": 504,
+                    "lable": "Frozen Veg",
+                    "grocery": [
+                        {
+                            "id": 510,
+                            "lable": "Ice-Creams",
+                            "grocery": [
+                                {
+                                    "id": 511,
+                                    "lable": "Cups, Sticks & Cones",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 512,
+                                    "lable": "Family Pack",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 505,
+                            "lable": "Frozen Veg",
+                            "grocery": [
+                                {
+                                    "id": 506,
+                                    "lable": "Frozen Burger Products",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 507,
+                                    "lable": "Frozen Corn, Peas & Others",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 508,
+                                    "lable": "Frozen Rotis",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 509,
+                                    "lable": "Frozen Snacks",
+                                    "grocery": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Non Veg",
+                "list": {
+                    "id": 587,
+                    "lable": "Non Veg",
+                    "grocery": [
+                        {
+                            "id": 592,
+                            "lable": "Fish & Seafood",
+                            "grocery": [
+                                {
+                                    "id": 593,
+                                    "lable": "Canned Fish",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 594,
+                                    "lable": "Dried Fish",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 595,
+                                    "lable": "Fresh Clean & Whole",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 596,
+                                    "lable": "Frozen Fish",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 597,
+                            "lable": "Meat",
+                            "grocery": [
+                                {
+                                    "id": 598,
+                                    "lable": "Fresh Cut & Whole",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 599,
+                                    "lable": "Frozen Meat",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 588,
+                            "lable": "Chicken",
+                            "grocery": [
+                                {
+                                    "id": 589,
+                                    "lable": "Cooked",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 590,
+                                    "lable": "Fresh Cut And Whole",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 591,
+                                    "lable": "Frozen Chicken",
+                                    "grocery": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Home Care & Fashion",
+                "list": {
+                    "id": 539,
+                    "lable": "Home Care & Fashion",
+                    "grocery": [
+                        {
+                            "id": 540,
+                            "lable": "Appliances & Electrical",
+                            "grocery": [
+                                {
+                                    "id": 541,
+                                    "lable": "Batteries",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 542,
+                                    "lable": "Tubes & Bulbs",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 660,
+                                    "lable": "Electrical Accessories ",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 548,
+                            "lable": "Dining",
+                            "grocery": [
+                                {
+                                    "id": 549,
+                                    "lable": "Cook N Serve",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 550,
+                                    "lable": "Cutlery",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 663,
+                                    "lable": "Glassware",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 561,
+                            "lable": "Home Utilities",
+                            "grocery": [
+                                {
+                                    "id": 562,
+                                    "lable": "Brooms & Brushes",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 563,
+                                    "lable": "Dusters, Scrubs And Wipes",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 564,
+                                    "lable": "Mat",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 565,
+                                    "lable": "Pooja Needs",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 567,
+                                    "lable": "Towel",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 655,
+                                    "lable": "Carry Bag",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 566,
+                                    "lable": "Rope & Clips",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 661,
+                                    "lable": "Plastic Bins",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 568,
+                            "lable": "Kitchen Appliance",
+                            "grocery": [
+                                {
+                                    "id": 569,
+                                    "lable": "Cutting Aids",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 570,
+                                    "lable": "Kitchen Implements",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 662,
+                                    "lable": "Gas Stoves",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 571,
+                            "lable": "Paper Products & Disposables",
+                            "grocery": [
+                                {
+                                    "id": 572,
+                                    "lable": "Disposable Dining",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 573,
+                                    "lable": "Face Tissues",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 574,
+                                    "lable": "Hand Tissues",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 575,
+                                    "lable": "Toilet Tissues",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 576,
+                                    "lable": "Wraps",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 577,
+                            "lable": "Pet Care",
+                            "grocery": [
+                                {
+                                    "id": 578,
+                                    "lable": "Pet Care Accessories",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 579,
+                                    "lable": "Pet Food",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 580,
+                            "lable": "Repellents",
+                            "grocery": [
+                                {
+                                    "id": 581,
+                                    "lable": "Creams & Others",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 582,
+                                    "lable": "Machine & Refills",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 583,
+                                    "lable": "Sprays",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 584,
+                            "lable": "Shoe Care",
+                            "grocery": [
+                                {
+                                    "id": 585,
+                                    "lable": "Shoe Brushes & Accessories",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 586,
+                                    "lable": "Shoe Polishes",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 543,
+                            "lable": "Cleaners",
+                            "grocery": [
+                                {
+                                    "id": 544,
+                                    "lable": "Floor Cleaners",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 545,
+                                    "lable": "Glass Cleaners",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 546,
+                                    "lable": "Toilet Cleaners",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 547,
+                                    "lable": "Utensil Cleaners",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 551,
+                            "lable": "Fabric Care",
+                            "grocery": [
+                                {
+                                    "id": 552,
+                                    "lable": "Blue, Conditioner & Whitner",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 553,
+                                    "lable": "Detergent Bars",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 554,
+                                    "lable": "Detergent Liquids",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 555,
+                                    "lable": "Detergent Powder",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 556,
+                            "lable": "Fresheners",
+                            "grocery": [
+                                {
+                                    "id": 557,
+                                    "lable": "Air Freshener",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 558,
+                                    "lable": "Car Fresheners",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 559,
+                                    "lable": "Gel Fresheners",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 560,
+                                    "lable": "Solid Fresheners",
+                                    "grocery": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Personal Care",
+                "list": {
+                    "id": 600,
+                    "lable": "Personal Care",
+                    "grocery": [
+                        {
+                            "id": 616,
+                            "lable": "Beauty & Cosmetics",
+                            "grocery": [
+                                {
+                                    "id": 617,
+                                    "lable": "Bleach, Face Pack & Hair Remover",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 618,
+                                    "lable": "Combs And Brushes",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 619,
+                                    "lable": "Eye Care",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 620,
+                                    "lable": "Lip Care",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 621,
+                                    "lable": "Nail Care",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 622,
+                                    "lable": "Perfumes Deos & Talcs",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 623,
+                                    "lable": "Skin Wipes",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 628,
+                            "lable": "Hair Care",
+                            "grocery": [
+                                {
+                                    "id": 629,
+                                    "lable": "Hair Colours",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 630,
+                                    "lable": "Hair Gels & Creams",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 631,
+                                    "lable": "Hair Oils",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 632,
+                                    "lable": "Hair Shampoo & Conditioners",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 633,
+                            "lable": "Health & Wellness",
+                            "grocery": [
+                                {
+                                    "id": 634,
+                                    "lable": "Antiseptic Lotions & Creams",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 635,
+                                    "lable": "Condoms",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 636,
+                                    "lable": "Cotton Buds & Bandages",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 637,
+                                    "lable": "Digestives",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 638,
+                                    "lable": "Health Supplements",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 639,
+                                    "lable": "Pain Relievers",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 664,
+                                    "lable": "Adult Diapers",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 640,
+                            "lable": "Oral Care",
+                            "grocery": [
+                                {
+                                    "id": 641,
+                                    "lable": "Mouthwash",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 642,
+                                    "lable": "Toothbrush",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 643,
+                                    "lable": "Toothpaste",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 644,
+                                    "lable": "Toothpowder",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 647,
+                            "lable": "Shaving Needs",
+                            "grocery": [
+                                {
+                                    "id": 648,
+                                    "lable": "Cartridges",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 649,
+                                    "lable": "Post Shave Care",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 650,
+                                    "lable": "Razor",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 651,
+                                    "lable": "Shaving Accessories",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 652,
+                                    "lable": "Shaving Creams Gels & Foams",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 653,
+                            "lable": "Work & Play",
+                            "grocery": [
+                                {
+                                    "id": 654,
+                                    "lable": "Stationery",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 601,
+                            "lable": "Baby Care",
+                            "grocery": [
+                                {
+                                    "id": 602,
+                                    "lable": "Baby Accessories",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 603,
+                                    "lable": "Baby Cream & Lotion",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 604,
+                                    "lable": "Baby Diapers & Baby Wipes",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 605,
+                                    "lable": "Baby Hair & Body Oil",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 606,
+                                    "lable": "Baby Soaps & Shampoo",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 607,
+                                    "lable": "Diapers & Wipes",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 608,
+                                    "lable": "Powders, Creams & Lotions",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 609,
+                            "lable": "Bath & Skin Care",
+                            "grocery": [
+                                {
+                                    "id": 610,
+                                    "lable": "Body Lotions & Creams",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 611,
+                                    "lable": "Body Wash & Hand Wash",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 612,
+                                    "lable": "Face Cleansers",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 613,
+                                    "lable": "Popular Soaps",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 614,
+                                    "lable": "Premium Soaps",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 615,
+                                    "lable": "Skin Care Accessories",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 624,
+                            "lable": "Fem Care",
+                            "grocery": [
+                                {
+                                    "id": 625,
+                                    "lable": "Panty Liners",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 626,
+                                    "lable": "Sanitary Pads",
+                                    "grocery": []
+                                },
+                                {
+                                    "id": 627,
+                                    "lable": "Tampons",
+                                    "grocery": []
+                                }
+                            ]
+                        },
+                        {
+                            "id": 645,
+                            "lable": "Personal Wear",
+                            "grocery": [
+                                {
+                                    "id": 646,
+                                    "lable": "Vest & Brief",
+                                    "grocery": []
+                                }
+                            ]
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]

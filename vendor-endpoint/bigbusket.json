@@ -1,0 +1,112 @@
+[
+    {
+        "vendor": "bigbusket",
+        "links": [
+            {
+                "host": "https://www.bigbasket.com",
+                "endpoint": "/product/get-products/?slug={strid}&page={pagenumber}&tab_type=[%22all%22]&sorted_on=popularity&listtype=pc"
+            }
+        ],
+        "storeparams": [
+            {
+                "label": "Fruits & Vegetables",
+                "list": {
+                    "id": 0,
+                    "strid": "fruits-vegetables",
+                    "label": "Fruits & Vegetables",
+                    "grocery": []
+                }
+            },
+            {
+                "label": "Foodgrains, Oil & Masala",
+                "list": {
+                    "id": 1,
+                    "strid": "foodgrains-oil-masala",
+                    "label": "Foodgrains, Oil & Masala",
+                    "grocery": []
+                }
+            },
+            {
+                "label": "Bakery, Cakes & Dairy",
+                "list": {
+                    "id": 3,
+                    "strid": "bakery-cakes-dairy",
+                    "label": "Bakery, Cakes & Dairy",
+                    "grocery": []
+                }
+            },
+            {
+                "label": "Beverages",
+                "list": {
+                    "id": 4,
+                    "strid": "beverages",
+                    "label": "Beverages",
+                    "grocery": []
+                }
+            },
+            {
+                "label": "Snacks & Branded Foods",
+                "list": {
+                    "id": 5,
+                    "strid": "snacks-branded-foods",
+                    "label": "Snacks & Branded Foods",
+                    "grocery": []
+                }
+            },
+            {
+                "label": "Beauty & Hygiene",
+                "list": {
+                    "id": 6,
+                    "strid": "beauty-hygiene",
+                    "label": "Beauty & Hygiene",
+                    "grocery": []
+                }
+            },
+            {
+                "label": "Cleaning & Household",
+                "list": {
+                    "id": 7,
+                    "strid": "cleaning-household",
+                    "label": "Cleaning & Household",
+                    "grocery": []
+                }
+            },
+            {
+                "label": "Kitchen, Garden & Pets",
+                "list": {
+                    "id": 8,
+                    "label": "Kitchen, Garden & Pets",
+                    "strid": "kitchen-garden-pets",
+                    "grocery": []
+                }
+            },
+            {
+                "label": "Eggs, Meat & Fish",
+                "list": {
+                    "id": 9,
+                    "label": "Eggs, Meat & Fish",
+                    "strid": "eggs-meat-fish",
+                    "grocery": []
+                }
+            },
+            {
+                "label": "Gourmet & World Food",
+                "list": {
+                    "id": 10,
+                    "label": "Gourmet & World Food",
+                    "strid": "gourmet-world-food",
+                    "grocery": []
+                }
+            },
+            {
+                "label": "Baby Care",
+                "list": {
+                    "id": 11,
+                    "label": "Baby Care",
+                    "strid": "baby-care",
+                    "grocery": []
+                }
+            }
+        ]
+    }
+]

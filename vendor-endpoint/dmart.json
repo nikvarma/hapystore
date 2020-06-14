@@ -1,0 +1,227 @@
+[
+    {
+        "vendor": "dmart",
+        "links": [
+            {
+                "host": "https://digital.dmart.in",
+                "endpoint": "/api/v1/plp/{id}?page={pagenumber}&size={sizenumber}"
+            }
+        ],
+        "storeparams": [
+            {
+                "label": "dmart",
+                "list": {
+                    "id": 87503,
+                    "label": "grocery",
+                    "grocery": [
+                        {
+                            "id": 88012,
+                            "label": "Flours & Grains"
+                        },
+                        {
+                            "id": 88013,
+                            "label": "Masala & Spices"
+                        },
+                        {
+                            "id": 88014,
+                            "label": "Poha"
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Grocery",
+                "list": {
+                    "id": 87504,
+                    "label": "grocery",
+                    "grocery": [
+                        {
+                            "id": 88015,
+                            "label": "Dals & Pulses"
+                        },
+                        {
+                            "id": 88016,
+                            "label": "Dryfruits"
+                        },
+                        {
+                            "id": 88017,
+                            "label": "Rice & Soya"
+                        },
+                        {
+                            "id": 88018,
+                            "label": "Sugar & Salt"
+                        },
+                        {
+                            "id": 87514,
+                            "label": "Masala & Spices"
+                        },
+                        {
+                            "id": 87515,
+                            "label": "Flours & Grains"
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Cooking Oil & Ghee",
+                "list": {
+                    "id": 87505,
+                    "label": "Cooking Oil & Ghee",
+                    "grocery": [
+                        {
+                            "id": 88006,
+                            "label": "Cooking Oil"
+                        },
+                        {
+                            "id": 88007,
+                            "label": "Ghee"
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Dairy & Beverages",
+                "list": {
+                    "id": 87506,
+                    "label": "Dairy & Beverages",
+                    "grocery": [
+                        {
+                            "id": 88008,
+                            "label": "Beverages"
+                        },
+                        {
+                            "id": 88009,
+                            "label": "Dairy"
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Packaged Food",
+                "list": {
+                    "id": 87507,
+                    "label": "Packaged Food",
+                    "grocery": [
+                        {
+                            "id": 88021,
+                            "label": "Ketchup & Sauce"
+                        },
+                        {
+                            "id": 88022,
+                            "label": "Oats/Muesli/Flakes"
+                        },
+                        {
+                            "id": 88023,
+                            "label": "Papad"
+                        },
+                        {
+                            "id": 88024,
+                            "label": "Pasta & Noodles"
+                        },
+                        {
+                            "id": 88025,
+                            "label": "Snacks"
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Biscuits & Toasts",
+                "list": {
+                    "id": 87508,
+                    "label": "Biscuits & Toasts",
+                    "grocery": [
+                        {
+                            "id": 88002,
+                            "label": "Biscuits"
+                        },
+                        {
+                            "id": 88003,
+                            "label": "Toasts"
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Home & Kitchen",
+                "list": {
+                    "id": 87509,
+                    "label": "Home & Kitchen",
+                    "grocery": [
+                        {
+                            "id": 88019,
+                            "label": "Daily Essentials"
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Cleaners",
+                "list": {
+                    "id": 87510,
+                    "label": "Cleaners",
+                    "grocery": [
+                        {
+                            "id": 88004,
+                            "label": "Cleaners"
+                        },
+                        {
+                            "id": 88005,
+                            "label": "Utensil Cleaners"
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Detergent & Fabric Care",
+                "list": {
+                    "id": 87511,
+                    "label": "Detergent & Fabric Care",
+                    "grocery": [
+                        {
+                            "id": 88010,
+                            "label": "Detergents"
+                        },
+                        {
+                            "id": 88011,
+                            "label": "Fabric Care"
+                        }
+                    ]
+                }
+            },
+            {
+                "label": "Personal Care",
+                "list": {
+                    "id": 87512,
+                    "label": "Personal Care",
+                    "grocery": [
+                        {
+                            "id": 88026,
+                            "label": "Antiseptics"
+                        },
+                        {
+                            "id": 88027,
+                            "label": "Hair Care"
+                        },
+                        {
+                            "id": 88028,
+                            "label": "Oral Care"
+                        },
+                        {
+                            "id": 88029,
+                            "label": "Sanitary Napkins"
+                        },
+                        {
+                            "id": 88030,
+                            "label": "Soaps & Hand Wash"
+                        },
+                        {
+                            "id": 88031,
+                            "label": "Talcum Powder"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]
